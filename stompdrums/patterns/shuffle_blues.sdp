@@ -1,0 +1,19 @@
+# StompDrums Pattern v1
+# Shuffle Blues — triplet swing feel
+name: Shuffle Blues
+timesig: 4/4
+resolution: 4
+swing: 66
+bpm_default: 100
+
+instrument: KK = kick.wav
+instrument: SN = snare.wav
+instrument: HH = hihat_closed.wav
+instrument: RD = ride.wav
+
+# 16 steps with swing=66 gives triplet shuffle
+# Beat:  1 . . . 2 . . . 3 . . . 4 . . .
+grid: KK  9.....3.9.....3.
+grid: SN  ....9.......9...
+grid: HH  ................
+grid: RD  5.5.5.5.5.5.5.5.

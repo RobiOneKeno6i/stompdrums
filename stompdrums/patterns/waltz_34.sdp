@@ -1,0 +1,15 @@
+# StompDrums Pattern v1
+# Waltz 3/4 — classic waltz
+name: Waltz 3/4
+timesig: 3/4
+resolution: 2
+swing: 50
+bpm_default: 90
+
+instrument: KK = kick.wav
+instrument: HH = hihat_closed.wav
+
+# resolution 2 = 8th notes, 3 beats x 2 = 6 steps
+# Beat:  1 . 2 . 3 .
+grid: KK  9.....
+grid: HH  5.5.5.

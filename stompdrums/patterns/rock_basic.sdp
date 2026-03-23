@@ -1,0 +1,19 @@
+# StompDrums Pattern v1
+# Rock Basic 4/4 — standard rock beat
+name: Rock Basic
+timesig: 4/4
+resolution: 4
+swing: 50
+bpm_default: 120
+
+instrument: KK = kick.wav
+instrument: SN = snare.wav
+instrument: HH = hihat_closed.wav
+instrument: HO = hihat_open.wav
+
+# resolution 4 = 16th notes, 4 beats x 4 = 16 steps
+# Beat:  1 . . . 2 . . . 3 . . . 4 . . .
+grid: KK  9.......9.......
+grid: SN  ....9.......9...
+grid: HH  5.5.5.5.5.5.5.5.
+grid: HO  ................

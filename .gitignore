@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+._*
+
+# Build artifacts
+build/
+*.o
+*.elf
+*.hex
+*.bin
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# Audio samples (too large for git — keep on SD card)
+stompdrums/samples/*.wav
+
+# Claude plans
+.claude/
